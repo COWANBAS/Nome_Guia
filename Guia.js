@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name           UmaParadaAe
 // @description    ZAPZAP
-// @namespace     CowanZAP
-// @license         CowBas
+// @namespace      CowanZAP
+// @license        CowBas
 // @version        1.0
 // @author         Cowanbas
 // @match          https://web.whatsapp.com/*
