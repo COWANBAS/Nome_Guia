@@ -2,7 +2,7 @@
 // @name           UmaParadaAe
 // @description    ZAPZAP
 // @spacename      CowanZAP
-// license         CowBas
+// @license         CowBas
 // @version        1.0
 // @author         Cowanbas
 // @match          https://web.whatsapp.com/*
