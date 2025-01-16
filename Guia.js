@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           UmaParadaAe
 // @description    ZAPZAP
-// @spacename      CowanZAP
+// @namespace     CowanZAP
 // @license         CowBas
 // @version        1.0
 // @author         Cowanbas
