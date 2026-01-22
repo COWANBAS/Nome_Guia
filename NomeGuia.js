@@ -3,7 +3,7 @@
 // @description    Altera o nome da guia
 // @namespace      CowanGUIA
 // @license        CowBas
-// @version        1.0
+// @version        GPL-3.0
 // @author         Cowanbas
 // @match          https://web.whatsapp.com/*
 // @run-at         document-start
@@ -32,5 +32,6 @@
   // Observar mudanças no título da guia
   const config = { subtree: true, childList: true, characterData: true };
   observer.observe(document.querySelector('head'), config);
+
 
 })();
