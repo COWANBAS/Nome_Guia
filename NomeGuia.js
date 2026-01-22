@@ -2,8 +2,8 @@
 // @name           Nome Guia
 // @description    Altera o nome da guia
 // @namespace      CowanGUIA
-// @license        CowBas
-// @version        GPL-3.0
+// @license        GPL-3.0
+// @version        v1.0
 // @author         Cowanbas
 // @match          https://web.whatsapp.com/*
 // @run-at         document-start
@@ -35,3 +35,4 @@
 
 
 })();
+
